@@ -1,6 +1,11 @@
 Nama : Muhammad Faris Zhafir Sambega
+
 NIM : 09011382530157
+
+
+
 Kelas : SKU3A
+
 Mata Kuliah : Sistem Operasi 
  
 Tugas Pertemuan 4 
